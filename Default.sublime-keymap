@@ -19,4 +19,5 @@
 	
 	{ "keys": ["ctrl+alt+v"], "command": "paste_from_history" }
 
+	{ "keys": ["ctrl+u"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"} },
 ]
